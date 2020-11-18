@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705288444266",
+    "firebase_url": "https://whattfapp-28ca6.firebaseio.com",
+    "project_id": "whattfapp-28ca6",
+    "storage_bucket": "whattfapp-28ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705288444266:android:a6bd151c8119dfa16cad13",
+        "android_client_info": {
+          "package_name": "com.phantasmlance.whattfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705288444266-lhn15q8jukjg8ge3oconjivnmabd3r6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQhdw3sn97UAwqqG5W1ogat0uazqUP_-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705288444266-lhn15q8jukjg8ge3oconjivnmabd3r6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
